@@ -1,6 +1,6 @@
 # Python Development Contributions
 <div align="center">
-   <img src="https://github.com/Trinity-Developers-Club/Python-Contribution/assets/92802892/db038d09-e118-4a15-aecf-f8a838095906"/>
+   <img src="https://github.com/Trinity-Developers-Club/Python-Contribution/assets/92802892/ab13bba1-fd0c-42c1-9f68-4b98fad41f05"/>
 </div>
 
 Welcome to our Python Contributions repository!
