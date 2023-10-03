@@ -1,4 +1,8 @@
 # Python Development Contributions
+<div align="center">
+   <img src="https://github.com/Trinity-Developers-Club/Python-Contribution/assets/92802892/db038d09-e118-4a15-aecf-f8a838095906"/>
+</div>
+
 Welcome to our Python Contributions repository!
 ## Whether it's your first or fiftieth pull request, there's always more to learn. We've put together some guidelines and resources to help you create quality contributions, keep our repositories pristine, and expand your knowledge of open-source Python development.
 
